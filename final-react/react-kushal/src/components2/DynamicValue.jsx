@@ -2,21 +2,19 @@
 
 // hum koi bhi variable add kar sakte hai jsx ki help se with the help of curly bractets  {}
 
-import img from "../images/Kolhapur.jpg"
+import img from "../images/Kolhapur.jpg";
 
 const DynamicValue = () => {
+  const name = "Kushal Kamble";
 
-    const name = "Kushal Kamble";
+  const degignation = "Web Developer";
 
-    const degignation = "Web Developer";
-
-    const returnCrad = () => {
-        const kushal = "Testing";
-        return kushal;
-        // return "I am a Web Developer"
-    }
-
-
+  const returnCrad = () => {
+    const kushal = "Testing";
+    return kushal;
+    // return "I am a Web Developer"
+  };
+ 
   return (
     <div>
       <div className="container">

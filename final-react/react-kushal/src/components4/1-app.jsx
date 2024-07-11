@@ -9,7 +9,7 @@ import "../node_modules/bootstrap/dist/css/bootstrap.css";
 
 import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 
-import PropsIn from "./components6/PropsIn";
+import ImportExportinReact from "./components4/ImportExportinReact";
 
 
 
@@ -21,7 +21,7 @@ function App() {
     <div className="container">
       <div className="row">
   
-      <PropsIn/>
+      <ImportExportinReact/>
       </div>
      
     </div>
