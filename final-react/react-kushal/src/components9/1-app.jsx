@@ -11,8 +11,8 @@ import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 
 // import PropsIn from "./components6/PropsIn";
 
+import Tailwind from "./components9/Tailwind";
 
-import EventPropagation from "./components12/EventPropagation";
 
 
 function App() {
@@ -24,7 +24,7 @@ function App() {
       <div className="row">
   
    
-      <EventPropagation/>
+      <Tailwind/>
       </div>
      
     </div>

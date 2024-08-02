@@ -12,7 +12,8 @@ import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 // import PropsIn from "./components6/PropsIn";
 
 
-import EventPropagation from "./components12/EventPropagation";
+// import PassingDestructure from "./components11/PassingDestructure";
+import PassingDestructure from "./components11/PassingDestructure";
 
 
 function App() {
@@ -24,7 +25,7 @@ function App() {
       <div className="row">
   
    
-      <EventPropagation/>
+      <PassingDestructure/>
       </div>
      
     </div>

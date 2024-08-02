@@ -13,7 +13,7 @@ const PropsIn = () => {
   return (
     <div>
       {newapiData.map((data) => {
-        return <Lists key={data.id} data = {data}/>
+        return <Lists key={data.id} data={data} />;
       })}
     </div>
   );

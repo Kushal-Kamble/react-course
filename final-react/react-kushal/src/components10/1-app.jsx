@@ -11,8 +11,7 @@ import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 
 // import PropsIn from "./components6/PropsIn";
 
-
-import EventPropagation from "./components12/EventPropagation";
+import Event from "./components10/Event";
 
 
 function App() {
@@ -24,7 +23,7 @@ function App() {
       <div className="row">
   
    
-      <EventPropagation/>
+      <Event/>
       </div>
      
     </div>
