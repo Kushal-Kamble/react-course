@@ -12,7 +12,7 @@ import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 // import PropsIn from "./components6/PropsIn";
 
 
-import EventPropagation from "./components12/EventPropagation";
+import IconsinReact from "./components13/IconsinReact";
 
 
 function App() {
@@ -24,7 +24,7 @@ function App() {
       <div className="row">
   
    
-      <EventPropagation/>
+      <IconsinReact/>
       </div>
      
     </div>
